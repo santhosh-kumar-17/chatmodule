@@ -1,95 +1,17 @@
-<!-- public/index.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Enhanced Chat</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f0f0f0;
-    }
-
-    #chat-container {
-      max-width: 600px;
-      margin: 20px auto;
-      background-color: #fff;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      border-radius: 5px;
-      overflow: hidden;
-    }
-
-    #messages {
-      list-style-type: none;
-      margin: 0;
-      padding: 10px;
-      overflow-y: scroll;
-      max-height: 300px;
-    }
-
-    #messages li {
-      margin-bottom: 10px;
-      padding: 10px;
-      border-bottom: 1px solid #ddd;
-      border-radius: 5px;
-      background-color: #f8f8f8;
-    }
-
-    #form {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 10px;
-      border-top: 1px solid #ddd;
-      background-color: #f8f8f8;
-    }
-
-    #m {
-      flex: 1;
-      padding: 8px;
-      margin-right: 8px;
-      border: 1px solid #ddd;
-      border-radius: 3px;
-    }
-
-    button {
-      padding: 8px 12px;
-      background-color: #4caf50;
-      color: #fff;
-      border: none;
-      border-radius: 3px;
-      cursor: pointer;
-    }
-
-    button:hover {
-      background-color: #45a049;
-    }
-
-    .user {
-      font-weight: bold;
-      color: #333;
-    }
-
-    .timestamp {
-      font-size: 0.8em;
-      color: #777;
-    }
-
-    .join-leave {
-      font-style: italic;
-      color: #888;
-    }
-
-    .error {
-      color: #ff0000;
-    }
-  </style>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <div id="chat-container">
+    <div id="chat-header">
+      <h2>Live Chat</h2>
+      <p id="online-count">Users Online: 0</p>
+    </div>
     <ul id="messages"></ul>
     <form id="form" action="">
       <input id="m" autocomplete="off" placeholder="Type your message..." />
@@ -99,40 +21,6 @@
 
   <script src="/socket.io/socket.io.js"></script>
   <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
-  <script>
-    $(function () {
-      const socket = io();
-      const username = prompt("Enter your username:");
-
-      // Notify user join
-      socket.emit('chat message', `<span class="join-leave">${username} joined the chat.</span>`);
-
-      $('form').submit(function() {
-        const message = $('#m').val().trim();
-        if (message !== '') {
-          const timestamp = new Date().toLocaleTimeString();
-          const formattedMessage = `<span class="user">${username}:</span> ${message} <span class="timestamp">${timestamp}</span>`;
-          socket.emit('chat message', formattedMessage);
-          $('#m').val('');
-        }
-        return false;
-      });
-
-      socket.on('chat message', function(msg){
-        $('#messages').append($('<li>').html(msg));
-        $('#messages').scrollTop($('#messages')[0].scrollHeight);
-      });
-
-      // Notify user leave
-      window.addEventListener('beforeunload', function () {
-        socket.emit('chat message', `<span class="join-leave">${username} left the chat.</span>`);
-      });
-
-      // Display error message if username is empty
-      if (!username) {
-        $('#messages').append($('<li class="error">').text('Invalid username. Please refresh and enter a valid username.'));
-      }
-    });
-  </script>
+  <script src="app.js"></script>
 </body>
 </html>

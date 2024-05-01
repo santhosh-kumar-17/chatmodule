@@ -1,0 +1,323 @@
+192.168.1.3 - - [01/May/2024:09:52:47 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:09:53:15 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:09:53:45 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.30, Message: <span class="join-leave">santhosh left the chat.</span>
+192.168.1.30 - - [01/May/2024:09:55:36 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.30, Message: <span class="join-leave">santhosh joined the chat.</span>
+User IP: 192.168.1.30, Message: <span class="user">santhosh:</span> hi <span class="timestamp">3:25:50 PM</span>
+User IP: 192.168.1.3, Message: <span class="join-leave">waren left the chat.</span>
+192.168.1.3 - - [01/May/2024:09:55:55 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.3, Message: <span class="join-leave">christopher  joined the chat.</span>
+User IP: 192.168.1.3, Message: <span class="user">christopher :</span> textr <span class="timestamp">3:26:36 PM</span>
+User IP: 192.168.1.3, Message: <span class="user">christopher :</span> text <span class="timestamp">3:26:38 PM</span>
+User IP: 192.168.1.3, Message: <span class="user">christopher :</span> 👍👍👍👍👍👍👍👍👍👍 <span class="timestamp">3:27:19 PM</span>
+User IP: 192.168.1.3, Message: <span class="user">christopher :</span> https://releases.ubuntu.com/jammy/ <span class="timestamp">3:27:45 PM</span>
+User IP: 192.168.1.3, Message: <span class="user">christopher :</span> 😆 🤣 😂 😅 😀 😃 😄 😁 🤪 😜 😝 😛 🤑 🤠 🤩 😺 😸 😹 😻 👅 💩 👻 <span class="timestamp">3:28:39 PM</span>
+192.168.1.3 - - [01/May/2024:09:58:34 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.3, Message: <span class="join-leave">null joined the chat.</span>
+User IP: 192.168.1.3, Message: <span class="join-leave">null left the chat.</span>
+192.168.1.3 - - [01/May/2024:09:58:37 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.3, Message: <span class="join-leave">update ayyappan joined the chat.</span>
+User IP: 192.168.1.3, Message: <span class="join-leave">update ayyappan left the chat.</span>
+192.168.1.3 - - [01/May/2024:10:00:07 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.3, Message: <span class="join-leave">null joined the chat.</span>
+User IP: 192.168.1.3, Message: <span class="join-leave">null left the chat.</span>
+192.168.1.3 - - [01/May/2024:10:00:11 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.3, Message: <span class="join-leave">santhosh kumar joined the chat.</span>
+User IP: 192.168.1.3, Message: <span class="user">santhosh kumar:</span> naan oru loosu <span class="timestamp">3:31:30 PM</span>
+User IP: 192.168.1.30, Message: <span class="join-leave">santhosh left the chat.</span>
+192.168.1.30 - - [01/May/2024:10:01:33 +0000] "GET / HTTP/1.1" 200 773 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:01:33 +0000] "GET /index.css HTTP/1.1" 200 1577 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:01:33 +0000] "GET /app.js HTTP/1.1" 200 1558 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:01:36 +0000] "GET / HTTP/1.1" 200 773 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:01:36 +0000] "GET /index.css HTTP/1.1" 200 1577 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:01:36 +0000] "GET /app.js HTTP/1.1" 200 1558 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:01:45 +0000] "GET / HTTP/1.1" 200 765 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:01:45 +0000] "GET /index.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:01:45 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:01:50 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:01:50 +0000] "GET /index.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:01:50 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:01:59 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:01:59 +0000] "GET /index.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:01:59 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.3, Message: <span class="user">Guest:</span> dfffsf <span class="timestamp">3:32:37 PM</span>
+192.168.1.30 - - [01/May/2024:10:02:21 +0000] "GET / HTTP/1.1" 200 756 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:02:22 +0000] "GET /index.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:02:22 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:02:33 +0000] "GET / HTTP/1.1" 200 756 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:02:33 +0000] "GET /index.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:02:33 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.3, Message: <span class="user">sandi:</span> hi guys <span class="timestamp">3:33:12 PM</span>
+User IP: 192.168.1.3, Message: <span class="user">sandi:</span> slkf <span class="timestamp">3:33:14 PM</span>
+192.168.1.3 - - [01/May/2024:10:02:45 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:02:45 +0000] "GET /index.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:02:45 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.30, Message: <span class="user">sandi:</span> ds <span class="timestamp">3:32:51 PM</span>
+User IP: 192.168.1.3, Message: <span class="user">waren:</span> lal <span class="timestamp">3:33:25 PM</span>
+192.168.1.30 - - [01/May/2024:10:03:20 +0000] "GET / HTTP/1.1" 200 759 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:03:20 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:03:20 +0000] "GET /index.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.27, Message: <span class="join-leave">kavya left the chat.</span>
+User IP: 192.168.1.150, Message: <span class="user">rajeshrd:</span> can we get a tick sound when there is a new chat ? <span class="timestamp">3:34:51 PM</span>
+User IP: 192.168.1.150, Message: <span class="user">rajeshrd:</span> santhosh ? <span class="timestamp">3:34:55 PM</span>
+User IP: 192.168.1.150, Message: <span class="user">rajeshrd:</span> nishok what are you doing ? <span class="timestamp">3:36:51 PM</span>
+User IP: 192.168.1.150, Message: <span class="user">rajeshrd:</span> guys can we leave early today ? <span class="timestamp">3:36:59 PM</span>
+User IP: 192.168.1.150, Message: <span class="user">rajeshrd:</span> who wants it ? <span class="timestamp">3:37:03 PM</span>
+192.168.1.30 - - [01/May/2024:10:07:49 +0000] "GET / HTTP/1.1" 200 771 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:07:49 +0000] "GET /index.css HTTP/1.1" 200 1577 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:07:49 +0000] "GET /app.js HTTP/1.1" 200 1563 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:07:52 +0000] "GET /? HTTP/1.1" 200 771 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:07:52 +0000] "GET /index.css HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:07:52 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:07:54 +0000] "GET /? HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:07:54 +0000] "GET /index.css HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:07:54 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:08:13 +0000] "GET /? HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:08:13 +0000] "GET /index.css HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:08:13 +0000] "GET /app.js HTTP/1.1" 200 1558 "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:08:19 +0000] "GET /? HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:08:19 +0000] "GET /index.css HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:08:19 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:08:43 +0000] "GET /? HTTP/1.1" 200 759 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:08:43 +0000] "GET /index.css HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:08:43 +0000] "GET /app.js HTTP/1.1" 200 1558 "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:09:29 +0000] "GET /? HTTP/1.1" 200 759 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:09:29 +0000] "GET /index.css HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:09:29 +0000] "GET /app.js HTTP/1.1" 200 1558 "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:10:01 +0000] "GET /? HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:10:02 +0000] "GET /index.css HTTP/1.1" 200 1399 "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:10:02 +0000] "GET /app.js HTTP/1.1" 200 1466 "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.3, Message: <span class="user">santhosh kumar:</span> me <span class="timestamp">3:41:42 PM</span>
+User IP: 192.168.1.3, Message: <span class="user">santhosh kumar:</span> me <span class="timestamp">3:41:47 PM</span>
+192.168.1.30 - - [01/May/2024:10:11:25 +0000] "GET /? HTTP/1.1" 200 774 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:11:25 +0000] "GET /styles.css HTTP/1.1" 200 1399 "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:11:25 +0000] "GET /app.js HTTP/1.1" 200 1466 "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:11:32 +0000] "GET /? HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:11:32 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:11:32 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.30, Message: <span class="user">santhosh:</span> yes <span class="timestamp">3:41:40 PM</span>
+User IP: 192.168.1.30, Message: <span class="join-leave">santhosh left the chat.</span>
+192.168.1.30 - - [01/May/2024:10:11:50 +0000] "GET / HTTP/1.1" 200 774 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:11:50 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:11:50 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:11:56 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:11:56 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:11:56 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.30, Message: <span class="user">io:</span> io <span class="timestamp">3:42:11 PM</span>
+192.168.1.30 - - [01/May/2024:10:12:15 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:12:15 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:12:15 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:12:29 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:12:29 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:12:29 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:12:56 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:12:56 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:12:56 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:12:56 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:12:56 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:12:56 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:13:32 +0000] "GET / HTTP/1.1" 200 774 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:13:32 +0000] "GET /app.js HTTP/1.1" 200 1466 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:13:32 +0000] "GET /styles.css HTTP/1.1" 200 1399 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.30, Message: <span class="user">sandii:</span> sandi <span class="timestamp">3:43:38 PM</span>
+User IP: 192.168.1.30, Message: <span class="user">sandii:</span> saoi <span class="timestamp">3:43:40 PM</span>
+User IP: 192.168.1.30, Message: <span class="user">sandii:</span> d <span class="timestamp">3:43:41 PM</span>
+User IP: 192.168.1.30, Message: <span class="user">sandii:</span> s <span class="timestamp">3:43:42 PM</span>
+User IP: 192.168.1.30, Message: <span class="user">sandii:</span> s <span class="timestamp">3:43:42 PM</span>
+User IP: 192.168.1.30, Message: <span class="user">sandii:</span> ww <span class="timestamp">3:43:43 PM</span>
+192.168.1.30 - - [01/May/2024:10:16:40 +0000] "GET / HTTP/1.1" 200 4064 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.30, Message: <span class="user">sandi:</span> sandi <span class="timestamp">3:46:47 PM</span>
+192.168.1.3 - - [01/May/2024:10:16:57 +0000] "GET / HTTP/1.1" 200 4064 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.3, Message: <span class="user">chris:</span> hlo guys <span class="timestamp">3:47:37 PM</span>
+User IP: 192.168.1.3, Message: <span class="user">chris:</span> solkoljfs <span class="timestamp">3:47:39 PM</span>
+User IP: 192.168.1.3, Message: <span class="user">chris:</span> [ksf <span class="timestamp">3:47:41 PM</span>
+User IP: 192.168.1.30, Message: <span class="user">sandi:</span> dasd <span class="timestamp">3:47:12 PM</span>
+User IP: 192.168.1.30, Message: <span class="user">sandi:</span> asdas <span class="timestamp">3:47:13 PM</span>
+User IP: 192.168.1.3, Message: <span class="user">chris:</span> sandi can you please leave from chat <span class="timestamp">3:48:21 PM</span>
+User IP: 192.168.1.3, Message: <span class="user">chris:</span> 645646 <span class="timestamp">3:48:42 PM</span>
+User IP: 192.168.1.3, Message: <span class="user">chris:</span> 7 <span class="timestamp">3:48:51 PM</span>
+192.168.1.30 - - [01/May/2024:10:19:12 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.30, Message: <span class="user">sandi:</span> sad <span class="timestamp">3:49:18 PM</span>
+User IP: 192.168.1.30, Message: <span class="user">sandi:</span> sad <span class="timestamp">3:49:19 PM</span>
+192.168.1.3 - - [01/May/2024:10:19:28 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.3, Message: <span class="user">sfsf:</span> sfsfs <span class="timestamp">3:50:01 PM</span>
+User IP: 192.168.1.3, Message: <span class="user">sfsf:</span> sfsf <span class="timestamp">3:50:03 PM</span>
+192.168.1.30 - - [01/May/2024:10:21:13 +0000] "GET / HTTP/1.1" 200 747 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:21:13 +0000] "GET /styles.css HTTP/1.1" 200 1388 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:21:13 +0000] "GET /app.js HTTP/1.1" 200 1305 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.30, Message: <span class="user">You:</span> sandi <span class="timestamp">3:51:16 PM</span>
+192.168.1.3 - - [01/May/2024:10:21:26 +0000] "GET / HTTP/1.1" 200 747 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:26 +0000] "GET /styles.css HTTP/1.1" 200 1388 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:26 +0000] "GET /app.js HTTP/1.1" 200 1305 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.3, Message: <span class="user">You:</span> sfs <span class="timestamp">3:51:59 PM</span>
+192.168.1.3 - - [01/May/2024:10:21:29 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:29 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:29 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:30 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:30 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:30 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:30 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:30 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:30 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:30 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:30 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:30 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:30 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:31 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:31 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:31 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:31 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:31 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:31 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:31 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:31 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:31 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:31 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:31 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:31 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:31 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:31 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:35 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:35 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:35 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.3, Message: <span class="user">You:</span> sfsf <span class="timestamp">3:52:12 PM</span>
+192.168.1.3 - - [01/May/2024:10:21:51 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:51 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:21:51 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.3, Message: <span class="user">You:</span> fsffsfs <span class="timestamp">3:52:25 PM</span>
+User IP: 192.168.1.30, Message: <span class="user">You:</span> sada <span class="timestamp">3:51:56 PM</span>
+192.168.1.30 - - [01/May/2024:10:22:08 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:08 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:08 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.3, Message: <span class="user">You:</span> vfdfdvdf <span class="timestamp">3:52:38 PM</span>
+192.168.1.30 - - [01/May/2024:10:22:08 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:08 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:08 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:09 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:09 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:09 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:09 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:09 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:09 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:09 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:09 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:09 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:10 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:10 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:10 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:10 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:10 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:10 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:10 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:10 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:10 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:10 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:10 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:10 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:10 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:10 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:10 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:10 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:10 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:10 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:11 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:11 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:22:11 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:23:01 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:23:01 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:23:01 +0000] "GET /app.js HTTP/1.1" 200 1458 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.30, Message: <span class="user">You:</span> hi <span class="timestamp">3:53:07 PM</span>
+192.168.1.3 - - [01/May/2024:10:23:14 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:23:14 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.3 - - [01/May/2024:10:23:14 +0000] "GET /app.js HTTP/1.1" 200 1458 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.3, Message: <span class="user">You:</span> dfdg <span class="timestamp">3:53:49 PM</span>
+User IP: 192.168.1.30, Message: <span class="user">You:</span> sda <span class="timestamp">3:53:21 PM</span>
+User IP: 192.168.1.3, Message: <span class="user">You:</span> ddgdfg <span class="timestamp">3:53:54 PM</span>
+User IP: 192.168.1.3, Message: <span class="user">You:</span> sfsfs <span class="timestamp">3:53:58 PM</span>
+192.168.1.30 - - [01/May/2024:10:26:00 +0000] "GET / HTTP/1.1" 200 664 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:26:00 +0000] "GET /script.js HTTP/1.1" 404 148 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:26:00 +0000] "GET /styles.css HTTP/1.1" 200 410 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:26:04 +0000] "GET /? HTTP/1.1" 200 664 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:26:04 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:26:04 +0000] "GET /script.js HTTP/1.1" 404 148 "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:26:10 +0000] "GET /? HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:26:10 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:26:10 +0000] "GET /script.js HTTP/1.1" 404 148 "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:26:33 +0000] "GET /? HTTP/1.1" 200 747 "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:26:33 +0000] "GET /styles.css HTTP/1.1" 200 1388 "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:26:33 +0000] "GET /app.js HTTP/1.1" 200 1458 "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.30, Message: <span class="user">You:</span> hi <span class="timestamp">3:56:38 PM</span>
+192.168.1.30 - - [01/May/2024:10:27:33 +0000] "GET /? HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:27:33 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:27:33 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.30, Message: <span class="user">You:</span> si <span class="timestamp">3:57:39 PM</span>
+192.168.1.29 - - [01/May/2024:10:28:25 +0000] "GET / HTTP/1.1" 200 747 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124.0.6367.88 Mobile/15E148 Safari/604.1"
+192.168.1.29 - - [01/May/2024:10:28:25 +0000] "GET /styles.css HTTP/1.1" 200 1388 "http://192.168.1.30:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124.0.6367.88 Mobile/15E148 Safari/604.1"
+192.168.1.29 - - [01/May/2024:10:28:25 +0000] "GET /app.js HTTP/1.1" 200 1458 "http://192.168.1.30:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124.0.6367.88 Mobile/15E148 Safari/604.1"
+192.168.1.29 - - [01/May/2024:10:28:25 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124.0.6367.88 Mobile/15E148 Safari/604.1"
+User IP: 192.168.1.29, Message: <span class="user">You:</span> Hi <span class="timestamp">3:58:38 PM</span>
+User IP: 192.168.1.30, Message: <span class="user">You:</span> hi <span class="timestamp">3:58:57 PM</span>
+192.168.1.9 - - [01/May/2024:10:29:20 +0000] "GET / HTTP/1.1" 200 747 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.9 - - [01/May/2024:10:29:21 +0000] "GET /styles.css HTTP/1.1" 200 1388 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.9 - - [01/May/2024:10:29:21 +0000] "GET /app.js HTTP/1.1" 200 1458 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.3, Message: <span class="join-leave">christopher  left the chat.</span>
+User IP: 192.168.1.3, Message: <span class="join-leave">santhosh kumar left the chat.</span>
+User IP: 192.168.1.29, Message: <span class="user">You:</span> Hi <span class="timestamp">3:59:40 PM</span>
+User IP: 192.168.1.30, Message: <span class="user">You:</span> hi <span class="timestamp">3:59:47 PM</span>
+192.168.1.29 - - [01/May/2024:10:30:07 +0000] "GET / HTTP/1.1" 200 747 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124.0.6367.88 Mobile/15E148 Safari/604.1"
+192.168.1.29 - - [01/May/2024:10:30:07 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124.0.6367.88 Mobile/15E148 Safari/604.1"
+192.168.1.29 - - [01/May/2024:10:30:07 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124.0.6367.88 Mobile/15E148 Safari/604.1"
+User IP: 192.168.1.9, Message: <span class="user">You:</span> hi <span class="timestamp">4:00:10 PM</span>
+192.168.1.30 - - [01/May/2024:10:32:44 +0000] "GET /? HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:32:44 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:32:44 +0000] "GET /app.js HTTP/1.1" 200 1499 "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.30, Message: <span class="user">sandi:</span> hi <span class="timestamp">4:02:50 PM</span>
+User IP: 192.168.1.29, Message: <span class="user">You:</span> Hi <span class="timestamp">4:02:57 PM</span>
+192.168.1.29 - - [01/May/2024:10:33:01 +0000] "GET / HTTP/1.1" 200 747 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124.0.6367.88 Mobile/15E148 Safari/604.1"
+192.168.1.29 - - [01/May/2024:10:33:01 +0000] "GET /app.js HTTP/1.1" 200 1499 "http://192.168.1.30:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124.0.6367.88 Mobile/15E148 Safari/604.1"
+192.168.1.29 - - [01/May/2024:10:33:01 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124.0.6367.88 Mobile/15E148 Safari/604.1"
+User IP: 192.168.1.29, Message: <span class="user">Iyapp :</span> Hi <span class="timestamp">4:03:13 PM</span>
+192.168.1.30 - - [01/May/2024:10:34:55 +0000] "GET /? HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:34:55 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:34:55 +0000] "GET /app.js HTTP/1.1" 200 1830 "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:34:57 +0000] "GET /? HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:34:57 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:34:57 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:34:58 +0000] "GET /? HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:34:58 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:34:58 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:34:58 +0000] "GET /? HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:34:58 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:34:58 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:35:01 +0000] "GET /? HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:35:01 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:35:01 +0000] "GET /app.js HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:35:21 +0000] "GET /? HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:35:21 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:35:21 +0000] "GET /app.js HTTP/1.1" 200 1499 "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+User IP: 192.168.1.30, Message: <span class="user">santhosh:</span> hi <span class="timestamp">4:05:30 PM</span>
+User IP: 192.168.1.29, Message: <span class="user">Iyapp :</span> Hi <span class="timestamp">4:05:40 PM</span>
+192.168.1.29 - - [01/May/2024:10:35:45 +0000] "GET / HTTP/1.1" 200 747 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124.0.6367.88 Mobile/15E148 Safari/604.1"
+192.168.1.29 - - [01/May/2024:10:35:45 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124.0.6367.88 Mobile/15E148 Safari/604.1"
+192.168.1.29 - - [01/May/2024:10:35:45 +0000] "GET /app.js HTTP/1.1" 200 1499 "http://192.168.1.30:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124.0.6367.88 Mobile/15E148 Safari/604.1"
+User IP: 192.168.1.29, Message: <span class="user">Tisok :</span> Hi <span class="timestamp">4:06:03 PM</span>
+192.168.1.27 - - [01/May/2024:10:37:19 +0000] "GET / HTTP/1.1" 200 747 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.27 - - [01/May/2024:10:37:19 +0000] "GET /styles.css HTTP/1.1" 200 1388 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.27 - - [01/May/2024:10:37:19 +0000] "GET /app.js HTTP/1.1" 200 1830 "http://192.168.1.30:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:39:07 +0000] "GET /? HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:39:07 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:39:07 +0000] "GET /app.js HTTP/1.1" 200 1989 "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.29 - - [01/May/2024:10:39:13 +0000] "GET / HTTP/1.1" 200 747 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124.0.6367.88 Mobile/15E148 Safari/604.1"
+192.168.1.29 - - [01/May/2024:10:39:13 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124.0.6367.88 Mobile/15E148 Safari/604.1"
+192.168.1.29 - - [01/May/2024:10:39:13 +0000] "GET /app.js HTTP/1.1" 200 1989 "http://192.168.1.30:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124.0.6367.88 Mobile/15E148 Safari/604.1"
+User IP: 192.168.1.29, Message: <span class="user">Nisock :</span> Hi <span class="timestamp">4:09:29 PM</span>
+User IP: 192.168.1.30, Message: <span class="user">sandi:</span> hi <span class="timestamp">4:09:32 PM</span>
+192.168.1.30 - - [01/May/2024:10:41:01 +0000] "GET /? HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:41:01 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.30 - - [01/May/2024:10:41:01 +0000] "GET /app.js HTTP/1.1" 200 1989 "http://192.168.1.30:3000/?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+192.168.1.29 - - [01/May/2024:10:41:09 +0000] "GET / HTTP/1.1" 200 747 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124.0.6367.88 Mobile/15E148 Safari/604.1"
+192.168.1.29 - - [01/May/2024:10:41:09 +0000] "GET /styles.css HTTP/1.1" 304 - "http://192.168.1.30:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124.0.6367.88 Mobile/15E148 Safari/604.1"
+192.168.1.29 - - [01/May/2024:10:41:09 +0000] "GET /app.js HTTP/1.1" 200 1989 "http://192.168.1.30:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124.0.6367.88 Mobile/15E148 Safari/604.1"
+User IP: 192.168.1.29, Message: <span class="user">Tisock :</span> Hi <span class="timestamp">4:11:24 PM</span>
+User IP: 192.168.1.30, Message: <span class="user">sandi:</span> jo <span class="timestamp">4:11:26 PM</span>
