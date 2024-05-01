@@ -27,8 +27,13 @@ io.on('connection', (socket) => {
   // Notify all clients about the updated online user count
   io.emit('user count', onlineUsers);
 
-  // Notify all clients that a new user has joined
-  io.emit('user joined', 'A new user has joined the chat.');
+  // Event handler for receiving the username
+  let username = '';
+  socket.on('username', (name) => {
+    username = name;
+    // Broadcast the username to all clients
+    socket.broadcast.emit('user joined', `${username} has joined the chat.`);
+  });
 
   // Event handler for a custom event (e.g., chat message)
   socket.on('chat message', (msg) => {
@@ -55,8 +60,8 @@ io.on('connection', (socket) => {
     // Notify all clients about the updated online user count
     io.emit('user count', onlineUsers);
 
-    // Notify all clients that a user has left
-    io.emit('user left', 'A user has left the chat.');
+    // Notify all clients that a user has left, including the username
+    socket.broadcast.emit('user left', `${username} has left the chat.`);
   });
 });
 
